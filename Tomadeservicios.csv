@@ -27,7 +27,7 @@ idRegistro,FuenteDeContactoCodigo,FuenteDeContacto,EdadDeContacto,IdeaDeNegocio,
 26,10,Wufoo-Pagina,34,Taller-de-Costura,1,Lima,Si
 27,10,Wufoo-Pagina,35,tienda-de-venta,1,Lima,Si
 28,10,Wufoo-Pagina,36,Lavanderia,1,Lima,Si
-29,10,Wufoo-Pagina,26,Botica,4,Puno,No
+29,10,Wufoo-Pagina,36,Botica,4,Puno,Si
 30,10,Wufoo-Pagina,41,Exportacion-de-cuyes,1,Lima,Si
 31,10,Wufoo-Pagina,41,Importacion-de-productos-de-la-india,1,Lima,Si
 32,10,Wufoo-Pagina,52,Importacion-de-motores,1,Lima,Si
@@ -47,7 +47,7 @@ idRegistro,FuenteDeContactoCodigo,FuenteDeContacto,EdadDeContacto,IdeaDeNegocio,
 46,50,Wufoo-post,24,Escuela-de-capacitacion,1,Lima,No
 47,50,Wufoo-post,26,Una-barberia,1,Lima,No
 48,50,Wufoo-post,33,Venta-de-gas,1,Lima,No
-49,20,Wufoo-Consultorio,33,Venta-de-gas,1,Lima,Si
+49,20,Wufoo-Consultorio,30,Venta-de-gas,1,Lima,No
 50,20,Wufoo-Consultorio,35,Salon-de-belleza-y-spa,1,Lima,Si
 51,20,Wufoo-Consultorio,36,Pollos-a-la-brasa,1,Lima,Si
 52,20,Wufoo-Consultorio,38,Capacitaciones,1,Lima,Si
